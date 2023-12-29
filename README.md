@@ -20,6 +20,7 @@ Make sure you have the following software installed before running the project:
 ## Customizing the Network Topology
 
 The network topology used in this project can be customized to meet specific requirements. The network topology is defined in the `Topology.py` file. You can modify this file to create a customized network layout. For example, you can adjust the number of hosts, switches, and links, as well as their connections.
+![image](https://github.com/TharinduThenuwara/SDN_loadbalancer/assets/72153792/77cd7957-bfe3-4391-a511-29c268f015e4)
 
 To customize the network topology:
 
