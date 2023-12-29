@@ -18,6 +18,7 @@ Make sure you have the following software installed before running the project:
 - OpenDayLight SDN Controller
 
 ## Customizing the Network Topology
+![Uploading WhatsApp Image 2023-12-29 at 6.52.29 PM.jpeg…]()
 
 The network topology used in this project can be customized to meet specific requirements. The network topology is defined in the `Topology.py` file. You can modify this file to create a customized network layout. For example, you can adjust the number of hosts, switches, and links, as well as their connections.
 
