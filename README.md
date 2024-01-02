@@ -17,6 +17,11 @@ Make sure you have the following software installed before running the project:
 - Mininet
 - OpenDayLight SDN Controller
 
+## Overall Image
+
+![CoreNetwork drawio (1)](https://github.com/TharinduThenuwara/SDN_loadbalancer/assets/72153792/d67f17de-63c5-4169-abe8-8af769ee9ec3)
+
+
 ## Customizing the Network Topology
 
 ![WhatsApp Image 2023-12-29 at 6 52 29 PM](https://github.com/TharinduThenuwara/SDN_loadbalancer/assets/72153792/a572b8c7-a0d5-46c0-8b08-a1078ea6fcd6)
